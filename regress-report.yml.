@@ -56,7 +56,7 @@ bugreports:
     Google Chrome 119.0.6045.160 (Официальная сборка), (64 бит)
     OC Windows 10
   steps-to-reproduce: |
-    1. Зайти на главную страницу магазина https://hexlet-products-store.vercel.app/
+    1. Зайти на главную страницу магазина https://products-store-git-v2bugfixes-hexlet-components.vercel.app/
     2. В фильтре по производителю выбрать "L'Oreal Paris"
     3. Перейти к описанию товара "Hyaluronic Acid Serum"
   expected-result: |
@@ -71,7 +71,7 @@ bugreports:
     Google Chrome 119.0.6045.160 (Официальная сборка), (64 бит)
     OC Windows 10
   steps-to-reproduce: |
-    1. Зайти на главную страницу магазина https://hexlet-products-store.vercel.app/
+    1. Зайти на главную страницу магазина https://products-store-git-v2bugfixes-hexlet-components.vercel.app/
     2. Добавить несколько товаров в корзину
     3. Перейти в корзину
   expected-result: |
