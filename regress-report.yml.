@@ -32,7 +32,7 @@ test-cases:
 ---
 - summary: |
     Проверка фильтрации товаров при установленной некорректной цене 
-  status: fail
+  status: pass
 
 ---
 - summary: |
