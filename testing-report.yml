@@ -1,40 +1,40 @@
 ---
 - summary: |
     Проверка поиска товара по ключевому слову
-  status: pass
+status: pass
 ---
 - summary: |
     Проверка поиска по ключевому слову при вводе несуществующего товара
-  status: pass
+status: pass
 ---
 - summary: |
     Проверка фильтрации товаров по категории 
-  status: pass
+status: pass
 ---
 - summary: |
     Проверка фильтрации товаров по цене от 0 до 99
-  status: pass
+status: pass
 ---
 - summary: |
     Проверка фильтрации товаров по цене от 100 до 999
-  status: pass
+status: pass
 ---
 - summary: |
     Проверка фильтрации товаров по цене от 1000 до 9999
-  status: pass
+status: pass
 ---
 - summary: |
     Проверка фильтрации товаров при вводе некорректного значения
-  status: pass
+status: pass
 ---
 - summary: |
     Проверка возможности просматривать товары и подробную информацию о товаре
-  status: pass
+status: pass
 ---
 - summary: |
     Проверка возможности добавления товаров в корзину
-  status: pass
+status: pass
 ---
 - summary: |
     Проверка возможности просмотра товаров в корзине
-  status: pass
+status: pass
