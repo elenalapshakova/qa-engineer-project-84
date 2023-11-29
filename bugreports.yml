@@ -39,6 +39,7 @@
     Все элементы располагаются ровно
   actual-result: |
     Ошибка изображена на скриншоте bug1.png
+![bug](https://github.com/elenalapshakova/qa-engineer-project-84/blob/main/bug1.png
 
 - summary: |
     Некорректная работа каталога
