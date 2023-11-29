@@ -34,7 +34,7 @@
   steps-to-reproduce: |
     1. Зайти на главную страницу магазина https://hexlet-products-store.vercel.app/
     2. Добавить несколько товаров в корзину
-    3. Перейти в корзину
+    3. Нажать на кнопку "Корзина"
   expected-result: |
     Все элементы располагаются ровно
   actual-result: |
